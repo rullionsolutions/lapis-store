@@ -1,0 +1,2 @@
+# lapis-store
+Document Store
